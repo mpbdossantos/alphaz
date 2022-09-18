@@ -12,6 +12,10 @@ body{
 /*ul li{
   list-style: none;
 }*/
+a{
+  color: #FFFFFF;
+  text-decoration: none;
+}
 
 li{
   display: inline;
@@ -72,6 +76,18 @@ li{
   padding-bottom: 5px;
   text-align: center;
 }
+
+.tabela_box_group{
+  padding-top: 30px;
+  padding-left: 100px;
+}
+
+.tabela_box
+{
+  padding-left: 50px;
+}
+
+
 .rodape{
   background-color:#006400;
   padding-top: 10px;
@@ -81,4 +97,10 @@ li{
 .copyrighty_simbol{
   text-align: right;
   padding-right: 20px;
+}
+
+.cartola_logo{
+  font-size: 20px;
+  color: #FFFFFF;
+  text-align: right;
 }
